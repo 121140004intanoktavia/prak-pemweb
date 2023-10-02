@@ -1,0 +1,36 @@
+<!-- CSS start -->
+
+    body {
+        background-color: ivory;
+        border: solid 3px #4682B4;
+    }
+
+    img {
+        width: "200" height: "200";
+        display: inline-block;
+    }
+
+    h1 {
+        color: #4682B4;
+    }
+
+    h2 {
+        color: #4682B4
+    }
+
+    p {
+        color: #4682B4;
+        text-align: justify;
+        text-justify: inter-word;
+    }
+
+    table {
+
+        color: #4682B4;
+    }
+
+    .apa {
+        color: #4682B4;
+    }
+
+<!-- CSS end -->

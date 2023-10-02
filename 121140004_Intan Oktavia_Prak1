@@ -1,98 +1,91 @@
 <!----Intan Oktavia - 121140004 - RB ---->
 
-<html lang="id">
-
 <!DOCTYPE html>
-<html> 
-    <style>
-        body {
-            background-color: ivory ;
-            border: solid 3px #4682B4  ;
-        }
-        img {
-            width: "200" height: "200";
-            display: inline-block;
-        }
+<html lang="en">
 
-        h1 {
-            color :  #4682B4 ;
-        }
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intan Oktavia's Profile Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
 
-        h2 {
-            color :  #4682B4 
-        }
 
-        p {
-            color : #4682B4 ; 
-            text-align: justify;
-            text-justify: inter-word;
-        }
+<!-- container content -->
+<body>
+    <img src="assets/Exercice de Style.jpg" alt="wow dikit" width="200" height="200">
+    <img src="assets/g e o r g i a n a.jpg" alt="we live we love woilah" width="200" height="200">
+    <img src="assets/Seventeen Album Aesthetic.jpg" alt="thanks pinterest" width="200" height="200">
+    <img src="assets/Get the We Heart It app!.jpg" alt="mang eak" width="200" height="200">
+    <img src="assets/yuh.jpg" alt="coooookieeee" width="200" height="200">
+
 
     </style>
-    <head>
+    <h1> Welcome to Vi's Page !!!</h1>
+    <p> I'm Intan Oktavia, i actually loves to be called Vi.
+        I'm 20 years old by 16th this October (not so excited to be 20 tho).
+        I love lots of thing, books, writings dan journalism, make up, music, sleep, sleep, sleep and sleep.
+        i'm a girlie girl who is lost in this engineering world. i personally think i'm more suitable to be
+        in social science field but IDK WHY I ENDED UP HERE. well, the world doesnt always go well for everyone.
+        i dont really enjoy codes, NO NO, more like i dont really enjoy college.
+        if i could transform myself to be a broccoli i'd be glad to sell my soul for it.
+        so, hello again. I'm Vi and i'd like to be a broccoli! </p>
 
-        <title> Intan Oktavia's Profile Page </title>
-    </head>
-    <body>
-        <img src = "Get the We Heart It app!.jpg" alt="wow dikit" width="200" height="200">
-        <img src = "g e o r g i a n a.jpg" alt="we live we love woilah" width="200" height="200" >
-        <img src = "Seventeen Album Aesthetic.jpg" alt="thanks pinterest" width="200" height="200">
-        <img src = "Exercice de Style.jpg" alt="mang eak" width="200" height="200" >
-        <img src = "yuh.jpg" alt="coooookieeee" width="200" height="200" >
+    <h2> Get To Know Me Better Thru these Links!</h2>
+    <ul>
+        <li><a href="https://medium.com/@andshewriteitdown"> medium site </a></li>
+        <li><a href="https://open.spotify.com/user/31ecbvdthgie7ytwzs5sivm2snty?si=39f681490eac40a0"> spotify account
+            </a></li>
+    </ul>
 
-
-        </style>
-        <h1> Welcome to Vi's Page !!!</h1>
-        <p > I'm Intan Oktavia, i actually loves to be called Vi. 
-            I'm 20 years old by 16th this October (not so excited to be 20 tho). 
-            I love lots of thing, books, writings dan journalism, make up, music, sleep, sleep, sleep and sleep. 
-            i'm a girlie girl who is lost in this engineering world. i personally think i'm more suitable to be
-            in social science field but IDK WHY I ENDED UP HERE. well, the world doesnt always go well for everyone.
-            i dont really enjoy codes, NO NO, more  like i dont really enjoy college.
-            if i could transform myself to be a broccoli i'd be glad to sell my soul for it.
-            so, hello again. I'm Vi and i'd like to be a broccoli! </p>
-
-        <h2> Get To Know Me Better Thru these Links!</h2>
-        <ul>
-            <li><a href ="https://medium.com/@andshewriteitdown" > medium site </a></li>
-            <li><a href = "https://open.spotify.com/user/31ecbvdthgie7ytwzs5sivm2snty?si=39f681490eac40a0" > spotify account </a></li>
-        </ul>
-
-        <h2> My Socials: </h2>
-        <ol>
-            <p> instagram: @idlaesy <p>
-            <p> email: intan.121140004@student.itera.ac.id <p>
-        </ol>
+    <h2> My Socials: </h2>
+    <ol>
+        <p> instagram: @idlaesy
+        <p>
+        <p> email: intan.121140004@student.itera.ac.id
+        <p>
+    </ol>
     <h2> Interest Check ! ! !</h2>
-        <p> by this section, lets see what movie or music i loved past and present. </p>
-        <video src="taxi driver.mp4" alt="taxi driver edit" width: 300 controls></video>
-        <p> that was taxi driver. my current favorite series from korea. Actually i love lots of series such as anne with an e, gilmore girls, and more. but recently, taxi driver stole my heart!</p>
-        <audio src="Stones.mp3" alt="stones - we are the nights" controls></audio>
-        <p> that was Stones by WE ARE THE NIGHT. its not my most favorite song cus i actually love hundreds tracks. But Stone by we are the night is a track that played randomly while i'm making this assignments, hehe.</p>
+    <p> by this section, lets see what movie or music i loved past and present. </p>
+    <video src="assets/taxi driver.mp4" alt="taxi driver edit" width: 300 controls></video>
+    <p> that was taxi driver. my current favorite series from korea. Actually i love lots of series such as anne with an
+        e, gilmore girls, and more. but recently, taxi driver stole my heart!</p>
+    <audio src="assets/Stones.mp3" alt="stones - we are the nights" controls></audio>
+    <p> that was Stones by WE ARE THE NIGHT. its not my most favorite song cus i actually love hundreds tracks. But
+        Stone by we are the night is a track that played randomly while i'm making this assignments, hehe.</p>
 
     <h2> Experiences </h2>
-        
-        <table border="1" >
+
+<!-- tabel -->
+    <table border="1">
+        <thead>
             <tr>
                 <th rowspan="2">No</th>
                 <th rowspan="2">Position</th>
                 <th rowspan="2">Instance</th>
                 <th colspan="2">Year</th>
             </tr>
+
             <tr>
                 <th> start </th>
                 <th> done </th>
-    
-            </tr>
 
+            </tr>
+        </thead>
+
+        <tbody>
             <tr>
-            <td>1</td>
-            <td>Vise Chairman Of Journalist Division</td>
-            <td>Lembaga Pers ITERA</td>
-            <td>2023</td>
-            <td>2024</td>
-        </table>
-    <form action="jawaban.php" method="post">
+                <td>1</td>
+                <td>Vise Chairman Of Journalist Division</td>
+                <td>Lembaga Pers ITERA</td>
+                <td>2023</td>
+                <td>2024</td>
+            </tr>
+        </tbody>
+    </table>
+
+<!-- form container -->
+    <form class="apa" action="jawaban.php" method="post">
         <h2>contact me</h2>
         <label for="Email">email</label> :
         <input type="text" placeholder="input your email" id="email">
@@ -105,5 +98,6 @@
         <input type="checkbox" name="a" id="a" value="3"> were having similar movie/music taste! lets make friends. <br>
         <button type="submit">send</button>
     </form>
-    </body>
+</body>
+
 </html>
