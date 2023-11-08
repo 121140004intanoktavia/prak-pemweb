@@ -1,3 +1,5 @@
+// Intan Oktavia-121140004-RB
+
 const hitungGanjilGenap = () => {
   let inputNumber = document.querySelector("#inputNumber").value;
   let ganjil = 0;
