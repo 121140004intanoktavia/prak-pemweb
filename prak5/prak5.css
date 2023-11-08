@@ -1,0 +1,54 @@
+/* Intan Oktavia 121140004 RB */
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace;
+}
+
+#kalkulator {
+  width: 300px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background-color: #ebf3e8;
+}
+
+input {
+  width: 92%;
+  padding: 10px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#tombol {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 5px;
+}
+
+button {
+  padding: 10px;
+  font-size: 18px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.tombolHasil {
+  background-color: #2e5765;
+}
+
+button:hover {
+  background-color: #3e7589;
+}
+
+button:active {
+  transform: scale(0.95);
+}
